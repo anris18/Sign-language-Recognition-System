@@ -37,6 +37,7 @@ This project aims to bridge communication gaps by translating sign language into
 ⚙️ Installation
 1️⃣ Clone the repository
 git clone https://github.com/anris18/sign-language-recognition.git
+
 cd sign-language-recognition
 
 2️⃣ Install dependencies
